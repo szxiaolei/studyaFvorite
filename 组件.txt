@@ -1,0 +1,17 @@
+Python Pandas
+MongoDB-->GridFS
+
+Concurrency
+Distribution
+Falut-tolerance
+Orchestration
+
+Selenium
+Envoy、Dapr、KEDA
+
+beanshell-bsh
+org.reflections
+pdfbox
+commons-text
+commons-configuration
+commons-beanutils
