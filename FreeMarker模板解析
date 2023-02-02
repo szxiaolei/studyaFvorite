@@ -1,0 +1,44 @@
+https://www.cnblogs.com/sloveling/p/freemarker.html 使用freemarker对模板进行渲染
+https://www.cnblogs.com/softidea/p/9140204.html java 替换字符串模板(模板渲染)
+https://blog.csdn.net/u014656173/article/details/76377323 Java模版引擎之Freemarker篇
+https://blog.csdn.net/fjnpysh/article/details/70858620 几款模板引擎的性能对比
+https://www.cnblogs.com/xxt19970908/p/5594258.html 案例-指令参考-freemarker指令、表达式（2019-4-23）
+1.10	Freemarker教程
+https://blog.csdn.net/fhx007/article/details/7902040 一篇很全面的freemarker教程
+https://blog.csdn.net/u011118289/article/details/43306015 史上最详细freemarker语法介绍及其入门教程实例
+https://blog.csdn.net/tang9140/article/details/39695653 FreeMarker常见用法教程
+https://blog.csdn.net/luowangcan/article/details/71404205 FreeMarker学习笔记
+https://blog.csdn.net/kkdelta/article/details/7220252 FreeMarker在JAVA中应用-XML解析
+https://blog.csdn.net/xiaohan2826/article/details/49510109 Java模板引擎FreeMarker系列之七FreeMarker四种变量的用法
+https://blog.csdn.net/u010147288/article/details/51489896 .ftl文件简介及语法
+https://blog.csdn.net/q121516340/article/details/51554543 使用freemarker（FTL）常见语法
+
+
+1.11	Freemarker处理数字
+https://blog.csdn.net/yangxiaovip/article/details/25312185
+https://blog.csdn.net/sayoko06/article/details/81509225 
+https://blog.csdn.net/kgz1990/article/details/79261565 输出数字自动加了逗号
+https://blog.csdn.net/xiong926/article/details/84241543 freemarker数字格式化
+https://blog.csdn.net/iteye_8332/article/details/81795886 常见语法大全
+https://blog.csdn.net/zbzhangzi/article/details/84763744 freemarker之空字符串默认赋值处理（2021-3-5）
+https://www.cnblogs.com/haoerlv/p/7234612.html freemarker 类型转换
+freemarker处理数组-2021-3-5
+https://blog.csdn.net/chen413203144/article/details/78278698 FreeMarker（三）Map和List
+https://blog.csdn.net/weixin_37339527/article/details/79000749 Freemarker获取Map对象中的List类型的值时报错
+https://blog.csdn.net/m000000l/article/details/51507700 freemarker 把字符串split为list 进行遍历
+https://blog.csdn.net/qq592304796/article/details/52506141 freemarker中的list
+
+
+1.12	Freemarker处理特殊字符
+https://blog.csdn.net/lilovfly/article/details/78789479 对特殊字符的转义
+https://blog.csdn.net/songthing/article/details/111224597 no_esc freemarker禁止html字符转义->freemarker 2.3.24引入
+https://www.jianshu.com/p/da58179ee741 freemarker防止json转义
+<#noescape><br></#noescape>
+https://blog.csdn.net/achilles12345/article/details/41820507 Freemarker输出$和html标签等特殊符号
+https://blog.csdn.net/weixin_37704921/article/details/81749554 freemarker中 感叹号、双感叹号、问号、双问号 的使用方法
+has_content:判断是否为非空字符串
+https://www.cnblogs.com/BrightMoon/p/4134535.html freemarker快速上手+空值+三元运算的多种处理方法
+https://www.cnblogs.com/linus-tan/p/14060258.html FREEMARKER判断是否为空
+https://blog.csdn.net/iteye_7117/article/details/82474329 freemarker判断对象是否为空
+http://www.blogjava.net/supersalor/articles/290715.html freemarker中空值的多种处理方法
+
