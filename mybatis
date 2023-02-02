@@ -1,0 +1,31 @@
+https://www.cnblogs.com/grasp/p/11268049.html mybatis 中 if-test 判断大坑
+https://mp.weixin.qq.com/s?__biz=Mzg3NjIxMjA1Ng==&mid=2247483714&idx=1&sn=2538509a4824de4799e7a81d5160c3bb Mybatis拦截器执行过程解析
+https://mp.weixin.qq.com/s?__biz=Mzg3NjIxMjA1Ng==&mid=2247483700&idx=1&sn=a848c2f120080bdaeaf0dbb7f2bc5959 Mybatis拦截器之数据加密解密
+https://blog.csdn.net/bdqx_007/article/details/94836637 mybatis 传递参数的7种方法
+https://blog.csdn.net/bdqx_007/article/details/100977538 【spring boot】mybatis基于注解方式实现双数据源配置
+https://blog.csdn.net/HUXU981598436/article/details/16120421 mybatis下的分页，支持所有的数据库
+https://blog.csdn.net/KokJuis/article/details/88972320 mybatis 通过拦截器打印完整的sql语句以及执行结果
+Mybatis-Plus
+https://blog.csdn.net/weixin_33850015/article/details/92431309 Mybatis-Plus使用全解
+https://blog.csdn.net/qq_34508530/article/details/88943858 Mybatis-Plus和Mybatis的区别
+https://blog.csdn.net/a347911/article/details/79580621 mybatis-plus使用中的常见问题
+https://blog.csdn.net/qq_21747795/article/details/81217264 spring boot集成mybatis-plus遇到的问题及解决
+https://blog.csdn.net/luanchenghuakai/article/details/88416697 SpringBoot+Mybatis-Plus 实现踩坑解决(Mapper注入失败)
+AutoConfiguredMapperScannerRegistrar
+@Mapper
+https://www.jianshu.com/p/f4d3e6ffeee8 MyBatis Plus之like模糊查询中包含有特殊字符（_、\、%）
+
+Mybatis
+https://blog.csdn.net/yyoc97/article/details/100144472 mybatis判断list集合是否包含指定数据
+https://blog.csdn.net/s592652578/article/details/52871884 MyBatis传入参数为list、数组、map写法
+https://blog.csdn.net/mashangzhifu/article/details/122845644 设置全局参数/全局变量/全局属性/手动设置全局参数
+https://blog.csdn.net/hfaflanf/article/details/105998658 mybatis查询的bind标签
+https://blog.csdn.net/iteye_11495/article/details/82644555 MyBatis中的OGNL教程
+https://blog.csdn.net/striveb/article/details/90709045 MyBatis中XML 映射文件中常见的标签（二级缓存）
+
+https://zhuanlan.zhihu.com/p/32754570 SpringBoot之集成Mybatis动态SQL（基于注解）
+
+https://blog.csdn.net/m0_37965811/article/details/117635299 Mybatis——foreach用法
+https://blog.csdn.net/weixin_32770687/article/details/113904265 mybatis mysql foreach_记录使用mybatis 「foreach」中 index一个坑
+https://blog.csdn.net/weixin_39707597/article/details/111700253 mybatis foreach index用法_关于 MyBatis，我死磕了 10 种超好用的写法！
+
